@@ -2,9 +2,9 @@
 # coding=utf-8
 #jangan di recode woii
 #recode jomblo seumur hidup
-#Author By ( ALDIANSYAH )
-#SUBSCRIBE YOUTUBE : Aldiansyah [aldi]
-#FOLLOW INSTAGRAM : @aldiansyah329
+#Author By ( EVAN FAUZAN )
+#SUBSCRIBE YOUTUBE : EVAN [ FAUZAN ]
+#FOLLOW INSTAGRAM : @evanfauzan
 
 import os,sys,time
 
@@ -12,7 +12,7 @@ def bersih():
         os.system('clear')
 
 usr='SUBSCRIBE'
-pwd='CHANNEL ALDI'
+pwd='CHANNEL EVAN FAUZAN'
 def login():
     bersih()
     print('\033[1;34m+\033[1;31m---------------------------------------------\033[1;34m')
